@@ -1,0 +1,12 @@
+.productDate {
+    height: 120px;
+    width: 120px;
+    background-color: rgb(61, 61, 61);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.3rem;
+    color: white;
+    border-radius: 20px;
+    font-weight: bolder
+}
